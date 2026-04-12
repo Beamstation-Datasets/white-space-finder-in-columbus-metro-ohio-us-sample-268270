@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Columbus, OH that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Columbus (Metro), Ohio, US",
+  "export_job_id": "b60cc4f6-250a-4de9-a77f-f33ab90c280a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 268270,
+  "location_name": "Columbus, OH",
+  "location_type": "metro",
+  "repo_name": "white-space-finder-in-columbus-metro-ohio-us-sample-268270",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/268270/beamstation_268270_food_and_drink-us-columbusoh_SAMPLE_DIST.csv",
+  "sample_pct": 9.23,
+  "sample_records": 6,
+  "sample_sha256": "3d51c08b0d7c1365f49e13833fe833e7277ca74ad9c9e0c70763362227c5b05d",
+  "sample_size_bytes": 40658,
+  "total_records": 65,
+  "updated_at": "2026-04-08T01:26:01.434149+00:00"
+}

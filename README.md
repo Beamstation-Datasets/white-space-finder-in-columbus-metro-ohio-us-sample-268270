@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 65 records |
 | Free sample size | 6 records (9.23%) |
-| Last export | 2026-04-08T01:26:01.434149+00:00 |
+| Last export | 2026-04-15T06:56:48.396592+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-columbus-metro-ohio-us-sample-268270/releases/download/sample-latest/beamstation_268270_food_and_drink-us-columbusoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample

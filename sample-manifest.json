@@ -1,12 +1,12 @@
 {
-  "export_job_id": "52ca9c6f-e9a8-4e0d-830e-7d48080b1bce",
+  "export_job_id": "f1442707-5456-4ede-aa06-2b3417f43e5a",
   "id_short": 268270,
-  "published_at": "2026-04-22T19:28:10Z",
+  "published_at": "2026-04-30T07:11:47Z",
   "repo_name": "white-space-finder-in-columbus-metro-ohio-us-sample-268270",
   "sample_asset_name": "beamstation_268270_food_and_drink-us-columbusoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/268270/beamstation_268270_food_and_drink-us-columbusoh_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "30a9a7fc9fefa77205de9dcc404cf52ffc8206670f8898a528ac5d1ecc816a48",
-  "sample_size_bytes": 33664,
-  "total_records": 59
+  "sample_records": 2,
+  "sample_sha256": "4526e775e3f57e235503017fc24a7b440ba15f684545a35da7014d26a959ec18",
+  "sample_size_bytes": 23154,
+  "total_records": 25
 }
